@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# Except these
+!.gitignore
+!README.md
+!plugins/
+!world/
+!playit
+!start.sh
+!server.jar
