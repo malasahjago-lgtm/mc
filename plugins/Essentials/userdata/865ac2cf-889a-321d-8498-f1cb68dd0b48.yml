@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.120.127.234
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1784671357331
+  login: 1784669813373
+money: '0'
+last-account-name: Dzake
+logoutlocation:
+  world: ce5068ff-d5c9-4112-a388-23a6b911d8c1
+  world-name: world
+  x: -6.501314519342458
+  y: 58.57162617064847
+  z: -9.064551554157262
+  yaw: -0.10811233520507812
+  pitch: -0.07004766166210175
+lastlocation:
+  world: ce5068ff-d5c9-4112-a388-23a6b911d8c1
+  world-name: world
+  x: 2.538031860020811
+  y: 60.12832325036031
+  z: 13.533742698688341
+  yaw: -140.7495574951172
+  pitch: 0.06151580810546875

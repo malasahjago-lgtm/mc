@@ -1,0 +1,20 @@
+{
+  "stats": {
+    "minecraft:killed_by": {
+      "minecraft:drowned": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 108,
+      "minecraft:fall_one_cm": 3020,
+      "minecraft:total_world_time": 39860,
+      "minecraft:leave_game": 4,
+      "minecraft:walk_under_water_one_cm": 8410,
+      "minecraft:damage_taken": 11172,
+      "minecraft:play_time": 39860,
+      "minecraft:deaths": 43,
+      "minecraft:jump": 3,
+      "minecraft:time_since_death": 0
+    }
+  },
+  "DataVersion": 4790
+}

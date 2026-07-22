@@ -1,0 +1,31 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.176.203.28
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1784701398848
+  login: 1784701381191
+money: '0'
+last-account-name: Vadi0
+logoutlocation:
+  world: ce5068ff-d5c9-4112-a388-23a6b911d8c1
+  world-name: world
+  x: 14.928550010468138
+  y: 63.5
+  z: 4.62042235774347
+  yaw: 128.8839874267578
+  pitch: 1.8077430725097656

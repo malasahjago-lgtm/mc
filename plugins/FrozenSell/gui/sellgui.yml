@@ -1,0 +1,6 @@
+inventory:
+  title: '&fᴘʟᴀᴄᴇ ɪᴛᴇᴍѕ ɪɴ ʜᴇʀᴇ ᴛᴏ ѕᴇʟʟ'
+  rows: 5
+
+# No category buttons — all 45 slots are available for selling
+buttons: {}

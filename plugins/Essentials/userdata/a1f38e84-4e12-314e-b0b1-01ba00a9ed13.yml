@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.157.108.213
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1784704886460
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1784706220679
+  login: 1784705455013
+money: '19394.0'
+last-account-name: spookyHard
+lastlocation:
+  world: ce5068ff-d5c9-4112-a388-23a6b911d8c1
+  world-name: world
+  x: -1.6666390997439393
+  y: 60.04422378592676
+  z: 15.699999988079071
+  yaw: -156.6835479736328
+  pitch: -64.99906158447266
+logoutlocation:
+  world: ce5068ff-d5c9-4112-a388-23a6b911d8c1
+  world-name: world
+  x: 12.969346237538511
+  y: 64.0
+  z: -12.074250979762386
+  yaw: 18.46051025390625
+  pitch: 8.768782615661621

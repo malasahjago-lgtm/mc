@@ -1,0 +1,127 @@
+# DonutShop Configuration File
+
+# GUI Titles
+gui:
+  main-shop-title: "ѕʜᴏᴘ"
+  end-shop-title: "ѕʜᴏᴘ - ᴇɴᴅ"
+  nether-shop-title: "ѕʜᴏᴘ - ɴᴇᴛʜᴇʀ"
+  gear-shop-title: "ѕʜᴏᴘ - ɢᴇᴀʀ"
+  food-shop-title: "ѕʜᴏᴘ - ꜰᴏᴏᴅ"
+  shard-shop-title: "ѕʜᴏᴘ - ꜱʜᴀʀᴅ"
+  redstone-shop-title: "ѕʜᴏᴘ - ʀᴇᴅѕᴛᴏɴᴇ"
+
+# Text Notifications
+messages:
+  not-enough-money: "&cYou don't have enough money."
+  inventory-full: "&cYour inventory is full."
+
+# Sound Settings
+sounds:
+  purchase-successful: "ENTITY_EXPERIENCE_ORB_PICKUP"
+  purchase-successful-volume: 0.5
+  purchase-unsuccessful: "ENTITY_VILLAGER_NO"
+  purchase-unsuccessful-volume: 0.5
+  click: "UI_BUTTON_CLICK"
+  click-volume: 0.5
+
+# Item Prices
+prices:
+  # End Category
+  enderchest: 100
+  end-enderpearl: 5
+  endstone: 1
+  dragonbreath: 50
+  endrod: 10
+  chorusfruit: 3
+  poppedchorusfruit: 5
+  shulkershell: 50
+  shulkerbox: 150
+  
+  # Nether Category
+  blazerod: 10
+  netherwart: 2
+  glowstonedust: 2
+  magmacream: 3
+  ghasttear: 50
+  quartz: 2
+  soulsand: 10
+  magmablock: 8
+  cryingobsidian: 30
+  
+  # Gear Category
+  obsidian: 20
+  endcrystal: 75
+  respawnanchor: 200
+  glowstone: 20
+  totemofundying: 300
+  gear-enderpearl: 5
+  gear-goldenapple: 50
+  bottleoenchanting: 30
+  arrow: 50
+  
+  # Food Category
+  potato: 10
+  sweetberries: 10
+  melonslice: 2
+  carrot: 10
+  apple: 5
+  cookedchicken: 8
+  steak: 8
+  goldencarrot: 15
+  food-goldenapple: 50
+
+  # Redstone Category
+  redstone: 20
+  repeater: 15
+  comparator: 25
+  redstone-lamp: 20
+  observer: 20
+  piston: 15
+  sticky-piston: 25
+  redstone-block: 50
+  slime-block: 30
+  honey-block: 30
+  target: 20
+  lightning-rod: 15
+  note-block: 20
+  dispenser: 25
+  dropper: 20
+  hopper: 50
+  rail: 8
+  powered-rail: 20
+  detector-rail: 15
+  activator-rail: 15
+  minecart: 20
+  chest-minecart: 30
+  dayligh-detector: 20
+  tripwire-hook: 8
+  lever: 3
+  stone-button: 1
+  oak-button: 1
+  stone-pressplate: 3
+  heavy-weight-plate: 20
+  light-weight-plate: 15
+  iron-trapdoor: 20
+  redstone-torch: 5
+
+# Shard Shop Configuration
+shard-shop:
+  # Prices for items in the shard shop
+  prices:
+    # Keys
+    common-key: 200
+    prime-key: 1500
+    gold-key: 1500
+    amethyst-key: 4000
+    crimson-key: 2000
+    
+    # Spawners
+    pig-spawner: 250
+    cow-spawner: 350
+    zombie-spawner: 400
+    spider-spawner: 750
+    skeleton-spawner: 500
+    creeper-spawner: 625
+    zombified-piglin-spawner: 750
+    blaze-spawner: 1000
+    iron-golem-spawner: 1500

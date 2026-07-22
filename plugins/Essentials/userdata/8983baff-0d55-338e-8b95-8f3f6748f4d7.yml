@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.91.42.201
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1784686479308
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1784689726642
+  login: 1784688979487
+money: '96364.9'
+last-account-name: Zakk
+logoutlocation:
+  world: ce5068ff-d5c9-4112-a388-23a6b911d8c1
+  world-name: world
+  x: 1008.2811220463049
+  y: -53.0
+  z: -2489.3126373735654
+  yaw: 31.18035888671875
+  pitch: 44.09773635864258
+lastlocation:
+  world: 4c81d528-71c1-4394-8313-67c38243c61e
+  world-name: world_the_end
+  x: 6184.192861309171
+  y: 65.25220334025373
+  z: -2977.782683769769
+  yaw: 90.96882629394531
+  pitch: -10.195361137390137

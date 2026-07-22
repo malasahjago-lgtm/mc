@@ -1,0 +1,8 @@
+# Time for tools (default: 259200 = 3 days)
+tool-expiry-enabled: true
+tool-expiry-seconds: 259200
+# Custom Name Settings
+pickaxe-name: "&dᴀᴍᴇᴛʜʏѕᴛ ᴘɪᴄᴋᴀхᴇ"
+shovel-name: "&dᴀᴍᴇᴛʜʏѕᴛ ѕʜᴏᴠᴇʟ"
+axe-name: "&dᴀᴍᴇᴛʜʏѕᴛ ᴀхᴇ"
+max-tree-blocks: 500

@@ -1,0 +1,50 @@
+{
+  "stats": {
+    "minecraft:killed_by": {
+      "minecraft:player": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:ender_pearl": 48,
+      "minecraft:oak_log": 1,
+      "minecraft:glowstone_dust": 4,
+      "minecraft:totem_of_undying": 7,
+      "minecraft:respawn_anchor": 6,
+      "minecraft:glowstone": 192,
+      "minecraft:netherite_chestplate": 1,
+      "minecraft:bone": 2,
+      "minecraft:arrow": 1,
+      "minecraft:netherite_sword": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 73108,
+      "minecraft:walk_one_cm": 1384,
+      "minecraft:leave_game": 11,
+      "minecraft:walk_under_water_one_cm": 97978,
+      "minecraft:damage_taken": 59906,
+      "minecraft:damage_dealt": 18653,
+      "minecraft:play_time": 103843,
+      "minecraft:damage_absorbed": 66957,
+      "minecraft:jump": 409,
+      "minecraft:time_since_death": 73106,
+      "minecraft:damage_dealt_absorbed": 8453,
+      "minecraft:sprint_one_cm": 21381,
+      "minecraft:swim_one_cm": 55,
+      "minecraft:total_world_time": 103843,
+      "minecraft:fly_one_cm": 3689,
+      "minecraft:walk_on_water_one_cm": 173483,
+      "minecraft:deaths": 1,
+      "minecraft:player_kills": 10
+    },
+    "minecraft:broken": {
+      "minecraft:netherite_helmet": 1,
+      "minecraft:netherite_chestplate": 2,
+      "minecraft:netherite_boots": 1
+    },
+    "minecraft:used": {
+      "minecraft:netherite_sword": 486,
+      "minecraft:totem_of_undying": 869,
+      "minecraft:ender_pearl": 216
+    }
+  },
+  "DataVersion": 4790
+}

@@ -1,0 +1,48 @@
+####################################
+#   FrozenSell - by DrFrozenXD     #
+#   FrozenStudio Plugin             #
+####################################
+
+# Command aliases for /sell
+command-aliases:
+  - sellgui
+
+# Worth lore settings
+worth-lore:
+  enabled: true
+  lore-format: "&7Worth: &a$%price% each"
+
+# Shulker box support - sell items inside shulkers
+shulker-support:
+  enabled: true
+
+# GUIs listed here won't show worth lore (match the GUI title exactly with colors)
+dont-show-in-gui:
+  - "&8ʙᴜʏ"
+
+# Economy settings
+economy:
+  currency-format: "#,##0.##"
+  abbreviations:
+    enabled: true
+    formats:
+      - 'K'
+      - 'M'
+      - 'B'
+      - 'T'
+
+# Progress bar appearance
+progress-bar:
+  loading-color: '&f'
+  complete-loading-color: '&#20f706'
+  bar-length: 21
+  bar-symbol: '&m '
+
+# Sound effects (use Bukkit Sound enum names)
+sounds:
+  sell-success: "ENTITY_EXPERIENCE_ORB_PICKUP"
+  no-sellable-items: "ENTITY_VILLAGER_NO"
+  plugin-reloaded: "ENTITY_PLAYER_LEVELUP"
+  click-sound: "UI_BUTTON_CLICK"
+  setworth-success: "ENTITY_PLAYER_LEVELUP"
+  setworth-error: "ENTITY_VILLAGER_NO"

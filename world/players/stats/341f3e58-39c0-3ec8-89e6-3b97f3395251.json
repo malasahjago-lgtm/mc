@@ -1,0 +1,41 @@
+{
+  "stats": {
+    "minecraft:crafted": {
+      "minecraft:glowstone": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:glowstone_dust": 7,
+      "minecraft:stone_bricks": 1
+    },
+    "minecraft:used": {
+      "minecraft:stone_bricks": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 3888,
+      "minecraft:walk_one_cm": 7256,
+      "minecraft:leave_game": 1,
+      "minecraft:walk_under_water_one_cm": 10239,
+      "minecraft:damage_taken": 441,
+      "minecraft:play_time": 5074,
+      "minecraft:jump": 67,
+      "minecraft:time_since_death": 3839,
+      "minecraft:sprint_one_cm": 13841,
+      "minecraft:open_chest": 7,
+      "minecraft:inspect_dispenser": 2,
+      "minecraft:fall_one_cm": 3125,
+      "minecraft:swim_one_cm": 13580,
+      "minecraft:total_world_time": 5074,
+      "minecraft:fly_one_cm": 19912,
+      "minecraft:walk_on_water_one_cm": 5777,
+      "minecraft:sneak_time": 370,
+      "minecraft:deaths": 1
+    },
+    "minecraft:mined": {
+      "minecraft:black_stained_glass": 2,
+      "minecraft:flowering_azalea_leaves": 1,
+      "minecraft:azalea_leaves": 5,
+      "minecraft:glowstone": 2
+    }
+  },
+  "DataVersion": 4790
+}

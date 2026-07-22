@@ -1,0 +1,35 @@
+# DonutCombat config
+
+messages:
+  Combat: "#5D6060Combat: #40B5F8<sec>s"
+
+default_timer: 10
+fly: disable # do 'enable' if you want player flying while combat
+
+wind-charge-tag: true # 'true' to tag players in combat when hit by wind charges, 'false' to disable
+projectile-tag: true # 'true' to tag players in combat when hit by arrows/crossbow bolts from players, 'false' to disable
+
+disabled-commands:
+  - /tpa
+  - /enderchest
+  - /spawn
+  - /home
+  #- add more if needed
+
+sound: minecraft:entity.villager.no
+volume: 1.0
+pitch: 1.0
+
+WorldGuard:
+  mode: blacklist # 'blacklist' = combat disabled in listed regions, 'whitelist' = combat ONLY allowed in listed regions
+  regions:
+    - test
+    - region
+    - pvp-disabled-region
+    #-
+    #- add more if needed
+
+blocks:
+  endpearl: enabled # 'enabled' to block ender pearls in WorldGuard regions during combat, 'disabled' to allow
+  elytra: enabled # 'enabled' to block elytra gliding in WorldGuard regions during combat, 'disabled' to allow
+disable-elytra-in-combat: true # 'true' to disable elytra during combat, 'false' to allow

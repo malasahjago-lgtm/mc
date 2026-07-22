@@ -1,0 +1,20 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 18466,
+      "minecraft:total_world_time": 22117,
+      "minecraft:leave_game": 1,
+      "minecraft:damage_taken": 266,
+      "minecraft:play_time": 22117,
+      "minecraft:deaths": 1,
+      "minecraft:time_since_death": 0
+    },
+    "minecraft:picked_up": {
+      "minecraft:snowball": 12
+    },
+    "minecraft:killed_by": {
+      "minecraft:spider": 1
+    }
+  },
+  "DataVersion": 4790
+}

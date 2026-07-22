@@ -1,0 +1,51 @@
+# RulesGUI Configuration
+gui:
+  title: "<!i>Rules"  # GUI title (MiniMessage format)
+  size: 27                           # Inventory size (must be multiple of 9, max 54)
+
+  # Example GUI items
+  client:
+    slot: 10
+    material: "KNOWLEDGE_BOOK"            # Minecraft Material
+    name: "<!i><#7afc00><b>CLIENT RULES"  # Display name (MiniMessage)
+    id: 90532523                     # Unique ID for internal tracking
+    lore:                            # Lore lines (MiniMessage)
+      - "<!i><#7afc00>⏺ <white>No Hacked Clients"
+      - "<!i><#7afc00>⏺ <white>No Movement Mods"
+      - "<!i><#7afc00>⏺ <white>No Inventory Mods"
+      - "<!i><#7afc00>⏺ <white>No Health Indicators"
+      - "<!i><#7afc00>⏺ <white>No Radar"
+      - "<!i><#7afc00>⏺ <white>No Freecam"
+      - "<!i><#7afc00>⏺ <white>No Auto Place"
+      - "<!i><#7afc00>⏺ <white>No Harmful Macros or Scripts"
+
+  general:
+    slot: 13
+    material: "KNOWLEDGE_BOOK"
+    name: "<!i><#f97603><b>GENERAL RULES"
+    id: 90532524
+    lore:
+      - "<!i><#f97603>⏺ <white>No Cheating"
+      - "<!i><#f97603>⏺ <white>No Duplicating"
+      - "<!i><#f97603>⏺ <white>Do Not Abuse Server Bugs"
+      - "<!i><#f97603>⏺ <white>No IRL Trading"
+      - "<!i><#f97603>⏺ <white>Do Not Use More Than 3 Alt Accounts"
+      - "<!i><#f97603>⏺ <white>No Mute Evasion"
+      - "<!i><#f97603>⏺ <white>No Ban Evasion"
+      - "<!i><#f97603>⏺ <white>No Doxing, Swatting or DDosing"
+      - "<!i><#f97603>⏺ <white>Do Not Lie To Staff Members"
+      - "<!i><#f97603>⏺ <white>Do Not Use Unfair Resource Packs"
+      - "<!i><#f97603>⏺ <white>Must Report Cheaters & Bugs at /discord"
+
+  chat:
+    slot: 16
+    material: KNOWLEDGE_BOOK
+    name: "<!i><#03a3f9><b>CHAT RULES"
+    id: 90532525
+    lore:
+      - "<!i><#03a3f9>⏺ <white>No Spamming & Rioting"
+      - "<!i><#03a3f9>⏺ <white>No Harassing & Abusing Others"
+      - "<!i><#03a3f9>⏺ <white>No Sharing Others Information"
+      - "<!i><#03a3f9>⏺ <white>No Advertising or Promotion"
+      - "<!i><#03a3f9>⏺ <white>No Racism, Discrimination or Hate Speech"
+      - "<!i><#03a3f9>⏺ <white>No Death Threats & Suicide Encouragement"

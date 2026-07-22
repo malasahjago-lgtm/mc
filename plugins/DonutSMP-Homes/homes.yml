@@ -1,0 +1,112 @@
+homes:
+  28e0b0f8-3e35-36a7-b592-1122981bfde2:
+    SG9tZSAx:
+      slot: Home 1
+      name: home
+      world: world
+      x: 1019.6960119168224
+      y: -7.0
+      z: -2504.4878558795867
+      yaw: -88.65161
+      pitch: 10.199816
+    SG9tZSAy:
+      slot: Home 2
+      name: darkoak
+      world: world
+      x: -1615.6873020926687
+      y: 63.0
+      z: -2072.003269217925
+      yaw: -176.55193
+      pitch: -0.1500183
+    SG9tZSAz:
+      slot: Home 3
+      name: home3
+      world: world
+      x: 1026.899957639491
+      y: -7.0
+      z: -2512.222880522272
+      yaw: 98.84839
+      pitch: 33.89981
+    SG9tZSA0:
+      slot: Home 4
+      name: end
+      world: world_the_end
+      x: 37.22984441405071
+      y: 60.0
+      z: -77.62916884786671
+      yaw: 143.40015
+      pitch: 22.199999
+    SG9tZSA1:
+      slot: Home 5
+      name: endfarm
+      world: world_the_end
+      x: 7.201179307605581
+      y: 1.0
+      z: -464.30000001192093
+      yaw: -169.04802
+      pitch: 20.249907
+  aa9632b6-92d5-32c4-a042-4dd828587cd1:
+    SG9tZSAx:
+      slot: Home 1
+      name: base
+      world: world
+      x: 1008.447929521167
+      y: -53.0
+      z: -2498.2572696459342
+      yaw: -4.638794
+      pitch: 13.211963
+    SG9tZSAy:
+      slot: Home 2
+      name: village
+      world: world
+      x: -13922.095528790504
+      y: 86.0
+      z: 2746.7936543948226
+      yaw: 160.06369
+      pitch: 23.597565
+    SG9tZSAz:
+      slot: Home 3
+      name: enderman
+      world: world_the_end
+      x: 6194.974170548331
+      y: 62.0
+      z: -2966.977914058476
+      yaw: 140.90079
+      pitch: 49.433857
+    SG9tZSA0:
+      slot: Home 4
+      name: farmender
+      world: world_the_end
+      x: 6265.328877509212
+      y: 70.0625
+      z: -2979.2326326119223
+      yaw: -28.561167
+      pitch: 11.311265
+  8983baff-0d55-338e-8b95-8f3f6748f4d7:
+    SG9tZSAx:
+      slot: Home 1
+      name: base
+      world: world
+      x: 1008.4757673059289
+      y: -53.0
+      z: -2498.4094712365163
+      yaw: -34.66977
+      pitch: 9.410569
+    SG9tZSAy:
+      slot: Home 2
+      name: village
+      world: world
+      x: -13922.566799778779
+      y: 86.0
+      z: 2747.5584720370716
+      yaw: 158.50594
+      pitch: 24.621471
+    SG9tZSAz:
+      slot: Home 3
+      name: end
+      world: world_the_end
+      x: 6191.34068384027
+      y: 62.0
+      z: -2968.471197208788
+      yaw: -83.10333
+      pitch: 7.485649

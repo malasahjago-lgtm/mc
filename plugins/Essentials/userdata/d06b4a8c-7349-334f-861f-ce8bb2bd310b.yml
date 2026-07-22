@@ -1,0 +1,31 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.204.213.66
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1784525487119
+  login: 1784524465106
+money: '0'
+last-account-name: EagleShasdow64
+logoutlocation:
+  world: b8d37a82-138e-4d04-866a-4feec93e4ea4
+  world-name: world
+  x: 6.670127803121313
+  y: 68.0
+  z: 6.081149105371114
+  yaw: 0.0
+  pitch: 0.0

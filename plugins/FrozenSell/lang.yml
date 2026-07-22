@@ -1,0 +1,52 @@
+# FrozenSell Language File
+# Use & for color codes, &#RRGGBB for hex colors
+
+prefix-enabled: false
+prefix: '&#E0E319&lSELL &7» '
+
+# Title and subtitle shown on successful sell
+title-sell-success: "&#0bf52b+%price%"
+subtitle-sell-success: "&fYou sold &#0bf52b%amount% items&f!"
+
+messages:
+  no-permission: '&#FF0000You do not have permission for this!'
+  plugin-reloaded: '&#0bf52bPlugin has been reloaded!'
+  player-only: 'You must be a player to use this command!'
+  sell-success: '&fYou sold &a%amount% items &ffor &#0bf52b%price%&f!'
+  no-sellable-items: '&#FF0000You have no sellable items!'
+  worth-toggle-enabled: '&#0bf52bWorth-Lore has been enabled!'
+  worth-toggle-disabled: '&#FF0000Worth-Lore has been disabled!'
+  material-not-exists: '&#FF0000The material does not exist!'
+  available-categories: '&#0bf52bAvailable categories:'
+  category-list: '&#0bf52b- &f%category%'
+  material-created: '&#0bf52bMaterial %material% has been created in category %category% with price %price%!'
+  material-updated: '&#0bf52bMaterial %material% has been updated with price %price%!'
+  no-item-in-hand: '&#FF0000You have no item in your hand!'
+  invalid-price: '&#FF0000Invalid price!'
+  player-not-found: '&#FF0000Player not found!'
+
+action-bars:
+  plugin-reloaded: '&#0bf52bPlugin has been reloaded!'
+  no-sellable-items: '&#FF0000You have no sellable items!'
+  item-worth: "&f%item% is &#0bf52b%price% &fworth"
+  stack-worth: "&f%item% &7(x%amount%) is &#0bf52b%total% &fworth &7(%single% each)"
+  item-not-sellable: "&#FF0000%item% can't be sold"
+  no-item-in-hand: "&#FF0000You have no item in your hand"
+  worth-toggle-on: "&#0bf52b✓ Worth-Lore is now visible"
+  worth-toggle-off: "&#FF0000✗ Worth-Lore is now hidden"
+
+command-usage: |
+  &#E0E319&lFROZENSELL
+  &#E0E319➤ &f/sell
+  &#E0E319➤ &f/sell help - &#E0E319show this message
+  &#E0E319➤ &f/worth - &#E0E319Worth GUI
+  &#E0E319➤ &f/worth <item> - &#E0E319Shows price of an item
+  &#E0E319➤ &f/worth hand - &#E0E319Shows price of held item
+  &#E0E319➤ &f/worthtoggle - &#E0E319Toggle worth lore on/off
+  &#E0E319➤ &f/sellhistory - &#E0E319Shows your sell history
+
+command-usage-admin: |
+  &#FF0000&lFROZENSELL ADMIN
+  &#FF0000➤ &f/sell reload
+  &#FF0000➤ &f/setworth <item> <price> [category]
+  &#FF0000➤ &f/setworth hand <price> [category]

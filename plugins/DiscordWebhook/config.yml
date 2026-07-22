@@ -1,0 +1,25 @@
+# Discord Webhook URL (for sending MC -> Discord)
+webhook-url: "https://discord.com/api/webhooks/1529343271086854174/FaUR3wTj2H53PrDt6hoU2eJz60XEkTEdIFrS8CiQGozdz7aC8f3IzydpMRbPUyVuWv5U"
+
+# Bot name shown in Discord
+bot-name: "Minecraft Server"
+
+# Bot avatar URL (leave empty for default)
+bot-avatar: ""
+
+# Discord Bot Token (for receiving Discord -> MC)
+discord-bot-token: "MTUyOTM0NDMxODE1MjYzODU0NA.GX3QIF.otD4J6feWWVevNauD5xus5CzzzFxfD6XuFCWo8"
+
+# Discord Channel ID to listen for messages
+discord-channel-id: "1526597109900378155"
+
+# Chat format (%player% = player name, %message% = chat message)
+chat-format: "**%player%**: %message%"
+
+# Join message format (%player% = player name)
+join-format: "**%player%** joined the server"
+
+# Enable/Disable events
+enable-chat: true
+enable-join: true
+enable-discord-to-mc: true
