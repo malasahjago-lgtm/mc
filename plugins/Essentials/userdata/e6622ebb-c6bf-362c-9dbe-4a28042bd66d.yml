@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.155.41.61
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1784737799093
+  login: 1784737698286
+money: '0'
+last-account-name: TheArthurhd
+lastlocation:
+  world: ce5068ff-d5c9-4112-a388-23a6b911d8c1
+  world-name: world
+  x: 0.5
+  y: 95.0
+  z: -9.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: ce5068ff-d5c9-4112-a388-23a6b911d8c1
+  world-name: world
+  x: 11.511024429840873
+  y: 64.0
+  z: 27.71157996952357
+  yaw: 162.72552490234375
+  pitch: 15.158259391784668

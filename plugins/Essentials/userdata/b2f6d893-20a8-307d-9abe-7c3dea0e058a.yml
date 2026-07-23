@@ -17,8 +17,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
-  login: 1784712034382
+  logout: 1784733383136
+  login: 1784733077100
 money: '0'
 last-account-name: TanPoint9
 lastlocation:
@@ -29,3 +29,11 @@ lastlocation:
   z: -3.5
   yaw: 0.0
   pitch: 0.0
+logoutlocation:
+  world: ce5068ff-d5c9-4112-a388-23a6b911d8c1
+  world-name: world
+  x: 5.5
+  y: 63.0
+  z: 19.5
+  yaw: -68.42422485351562
+  pitch: 22.808313369750977

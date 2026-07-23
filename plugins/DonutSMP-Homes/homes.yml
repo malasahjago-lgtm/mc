@@ -18,15 +18,6 @@ homes:
       z: -2072.003269217925
       yaw: -176.55193
       pitch: -0.1500183
-    SG9tZSAz:
-      slot: Home 3
-      name: home3
-      world: world
-      x: 1026.899957639491
-      y: -7.0
-      z: -2512.222880522272
-      yaw: 98.84839
-      pitch: 33.89981
     SG9tZSA0:
       slot: Home 4
       name: end
@@ -45,6 +36,15 @@ homes:
       z: -464.30000001192093
       yaw: -169.04802
       pitch: 20.249907
+    SG9tZSAz:
+      slot: Home 3
+      name: home3
+      world: world_the_end
+      x: 1186.1622694387256
+      y: 59.0
+      z: -1114.9433193797786
+      yaw: -38.39856
+      pitch: 11.849973
   aa9632b6-92d5-32c4-a042-4dd828587cd1:
     SG9tZSAx:
       slot: Home 1
