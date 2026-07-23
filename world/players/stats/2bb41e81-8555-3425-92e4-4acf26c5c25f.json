@@ -1,18 +1,18 @@
 {
   "stats": {
+    "minecraft:killed_by": {
+      "minecraft:drowned": 1
+    },
     "minecraft:picked_up": {
       "minecraft:stone_pickaxe": 1,
       "minecraft:stone_axe": 2
     },
-    "minecraft:killed_by": {
-      "minecraft:drowned": 1
-    },
     "minecraft:custom": {
-      "minecraft:time_since_rest": 18460,
-      "minecraft:total_world_time": 30871,
-      "minecraft:leave_game": 3,
+      "minecraft:time_since_rest": 136257,
+      "minecraft:total_world_time": 148668,
+      "minecraft:leave_game": 16,
       "minecraft:damage_taken": 250,
-      "minecraft:play_time": 30871,
+      "minecraft:play_time": 148668,
       "minecraft:deaths": 1,
       "minecraft:time_since_death": 0
     }

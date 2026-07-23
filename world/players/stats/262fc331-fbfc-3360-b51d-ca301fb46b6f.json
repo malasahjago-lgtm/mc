@@ -1,0 +1,24 @@
+{
+  "stats": {
+    "minecraft:mined": {
+      "minecraft:glowstone": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 903,
+      "minecraft:walk_one_cm": 3070,
+      "minecraft:leave_game": 2,
+      "minecraft:walk_under_water_one_cm": 440,
+      "minecraft:play_time": 903,
+      "minecraft:damage_dealt": 40,
+      "minecraft:open_shulker_box": 4,
+      "minecraft:jump": 4,
+      "minecraft:time_since_death": 903,
+      "minecraft:total_world_time": 903,
+      "minecraft:fly_one_cm": 1760,
+      "minecraft:walk_on_water_one_cm": 793,
+      "minecraft:crouch_one_cm": 651,
+      "minecraft:sneak_time": 121
+    }
+  },
+  "DataVersion": 4790
+}

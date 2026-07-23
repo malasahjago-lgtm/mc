@@ -1,0 +1,50 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:iron_leggings": 1,
+      "minecraft:iron_chestplate": 1,
+      "minecraft:iron_boots": 1
+    },
+    "minecraft:dropped": {
+      "minecraft:salmon": 1,
+      "minecraft:glow_item_frame": 2,
+      "minecraft:iron_chestplate": 1
+    },
+    "minecraft:killed_by": {
+      "minecraft:enderman": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 1514,
+      "minecraft:walk_one_cm": 4088,
+      "minecraft:leave_game": 1,
+      "minecraft:walk_under_water_one_cm": 807,
+      "minecraft:damage_taken": 270,
+      "minecraft:damage_dealt": 20,
+      "minecraft:play_time": 2016,
+      "minecraft:jump": 46,
+      "minecraft:time_since_death": 1475,
+      "minecraft:drop": 4,
+      "minecraft:sprint_one_cm": 8126,
+      "minecraft:open_chest": 10,
+      "minecraft:fall_one_cm": 500,
+      "minecraft:swim_one_cm": 3058,
+      "minecraft:total_world_time": 2016,
+      "minecraft:fly_one_cm": 12835,
+      "minecraft:walk_on_water_one_cm": 137,
+      "minecraft:sneak_time": 31,
+      "minecraft:deaths": 1
+    },
+    "minecraft:mined": {
+      "minecraft:fire": 3
+    },
+    "minecraft:picked_up": {
+      "minecraft:iron_boots": 1,
+      "minecraft:iron_leggings": 1,
+      "minecraft:salmon": 1,
+      "minecraft:glow_item_frame": 4,
+      "minecraft:totem_of_undying": 2,
+      "minecraft:iron_chestplate": 3
+    }
+  },
+  "DataVersion": 4790
+}
